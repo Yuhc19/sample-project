@@ -241,7 +241,7 @@
 }
 
 .events__image {
-  image: url(../sample-project/images/cafe.png);
+  background-image: url(../sample-project/images/cafe.png);
   max-width: 100%;
 }
 
