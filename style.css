@@ -241,7 +241,8 @@
 }
 
 .events__image {
-  /* max-width: 100%; */
+  image: url(../sample-project/images/cafe.png);
+  max-width: 100%;
 }
 
 .person {
