@@ -255,6 +255,8 @@
 
 .person_name_feynman {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
+  top: 30px;
 }
 
 .person_name_burbidge {
