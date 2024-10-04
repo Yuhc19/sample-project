@@ -237,7 +237,6 @@
   flex-shrink: 0;
   flex-basis: 780px;
   max-width: 780px;
-  position: relative;
 }
 
 .events__image {
