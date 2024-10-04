@@ -257,10 +257,14 @@
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   position: absolute;
   top: 30px;
+  left: 319px;
 }
 
 .person_name_burbidge {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
+  top: 126;
+  right: 125;
 }
 
 .person_name_cannon {
