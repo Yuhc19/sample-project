@@ -269,6 +269,9 @@
 
 .person_name_cannon {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
+  bottom: 18px;
+  right: 216;
 }
 
 .person_name_mitchell {
