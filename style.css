@@ -241,7 +241,6 @@
 }
 
 .events__image {
-  background-image: url(../sample-project/images/cafe.png);
   max-width: 100%;
 }
 
@@ -256,14 +255,14 @@
 .person_name_feynman {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   position: absolute;
-  top: 30px;
+  top: -30px;
   left: 319px;
 }
 
 .person_name_burbidge {
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
   position: absolute;
-  top: 126px;
+  top: 96px;
   right: 125px;
 }
 
