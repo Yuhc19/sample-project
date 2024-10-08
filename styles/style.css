@@ -335,9 +335,9 @@
 
 .step {
   /* Agrega estilos */
-  gap: 40px;
+  margin-top: 40px;
+  margin-left: 40px;
   margin-right: 40px;
-  margin-left: 100px;
   margin-bottom: 220px;
 }
 
