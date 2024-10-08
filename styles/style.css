@@ -327,12 +327,18 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin: 100px 0 0;
+  margin: 100px 0px 0px;
   /* Agrega estilos */
+  display: flex;
+  flex-basis: auto;
 }
 
 .step {
   /* Agrega estilos */
+  gap: 40px;
+  margin-right: 40px;
+  margin-left: 100px;
+  margin-bottom: 220px;
 }
 
 .step__title {
