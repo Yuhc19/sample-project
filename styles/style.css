@@ -368,7 +368,11 @@
   color: white;
   font-family: "normal", Arial, sans-serif, monospace;
   font-style: normal;
-  font-display: auto;
+
+  margin-top: 60px;
+  margin-right: 80px;
+  margin-bottom: 60px;
+  margin-left: 80px;
 }
 
 .footer__column_content_hours {
@@ -382,6 +386,7 @@
 }
 
 .footer__logo {
+  shape-image-threshold: initial;
   margin-top: 60px;
   margin-right: auto;
   margin-left: 80px;
