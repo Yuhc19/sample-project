@@ -373,8 +373,6 @@
 }
 
 .footer__column_content_hours {
-  display: flex;
-  justify-content: wrap;
 }
 
 .footer__column_content_social {
@@ -384,9 +382,9 @@
 
 .footer__logo {
   shape-image-threshold: initial;
-  margin-top: 60px;
+
   margin-right: auto;
-  margin-left: 80px;
+
   margin-bottom: 100px;
   color: #ffffff;
 }
