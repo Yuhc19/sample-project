@@ -366,10 +366,9 @@
 
 .footer__columns {
   color: white;
-  font-family: 'normal', Arial, Helvetica, sans-serif, monospace;
+  font-family: "normal", Arial, sans-serif, monospace;
   font-style: normal;
   font-display: auto;
-
 }
 
 .footer__column_content_hours {
@@ -379,15 +378,15 @@
 }
 
 .footer__logo {
-  color: #f2f2f2;
-  margin-top: 60px:
-  margin-left: 80px;
+  margin-top: 60px;
   margin-right: auto;
-
-
+  margin-left: 80px;
+  margin-bottom: 100px;
+  color: #ffffff;
 }
 
 .footer__column-heading {
+  color: white;
 }
 
 .footer__list {
