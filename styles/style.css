@@ -372,9 +372,13 @@
 }
 
 .footer__column_content_hours {
+  display: flex;
+  justify-content: wrap;
 }
 
 .footer__column_content_social {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .footer__logo {
@@ -405,6 +409,7 @@
 }
 
 .footer__social-icon {
+  size-adjust: 16px 16px;
 }
 
 .footer__copyright {
