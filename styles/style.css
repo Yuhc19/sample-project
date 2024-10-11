@@ -376,15 +376,11 @@
 }
 
 .footer__column_content_social {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .footer__logo {
   shape-image-threshold: initial;
-
   margin-right: auto;
-
   margin-bottom: 100px;
   color: #ffffff;
 }
