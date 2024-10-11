@@ -362,17 +362,14 @@
 .footer {
   box-sizing: border-box;
   background-color: #000000;
+  padding: 60px 80px;
 }
 
 .footer__columns {
   color: white;
   font-family: "normal", Arial, sans-serif, monospace;
   font-style: normal;
-
-  margin-top: 60px;
-  margin-right: 80px;
-  margin-bottom: 60px;
-  margin-left: 80px;
+  display: flex;
 }
 
 .footer__column_content_hours {
