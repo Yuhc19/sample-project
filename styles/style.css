@@ -406,7 +406,7 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
-  display: flexbox;
+  display: flex;
   align-items: center;
   column-gap: 10px;
 }
