@@ -373,13 +373,14 @@
 }
 
 .footer__column_content_hours {
+  margin-left: auto;
 }
 
 .footer__column_content_social {
 }
 
 .footer__logo {
-  margin-right: auto;
+  /*margin-right: auto;*/
   margin-bottom: 100px;
   color: #ffffff;
 }
