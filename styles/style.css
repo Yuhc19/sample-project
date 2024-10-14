@@ -330,6 +330,7 @@
   margin: 100px 0px 0px;
   /* Agrega estilos */
   display: flex;
+  column-gap: 40px;
   justify-content: center;
 }
 
@@ -338,8 +339,6 @@
 
   flex-basis: 220px;
   margin-top: 40px;
-  margin-left: 40px;
-  margin-right: 40px;
 }
 
 .step__title {
