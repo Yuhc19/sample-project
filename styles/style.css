@@ -379,7 +379,6 @@
 }
 
 .footer__logo {
-  shape-image-threshold: initial;
   margin-right: auto;
   margin-bottom: 100px;
   color: #ffffff;
@@ -405,7 +404,7 @@
 }
 
 .footer__social-icon {
-  size-adjust: 16px 16px;
+  size: 16px 16px;
 }
 
 .footer__copyright {
